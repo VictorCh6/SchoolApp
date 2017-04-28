@@ -1,6 +1,6 @@
 # SchoolApp
   Login : Admin
-  Pass: Admin123
+  Pass: Admin1
 
 -- Database: `school`
 --
